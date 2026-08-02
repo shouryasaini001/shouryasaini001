@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Shourya 👋
 
-<!--
-**shouryasaini001/shouryasaini001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Starting my B.Tech in Computer Science & AI — just getting my journey underway!
 
-Here are some ideas to get you started:
+🌱 Currently building my foundations in:
+- Python
+- HTML/CSS
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 Interested in **backend development** and eager to explore how systems work behind the scenes
+
+📚 Learning in public — this profile will grow as I build projects, solve problems, and pick up new skills along the way
+
+📫 Feel free to check out my repositories as I add them!
+
+---
+⭐ *Currently a beginner, but building consistently — check back for updates!*
